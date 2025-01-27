@@ -1,3 +1,5 @@
+TRAFFIC FLOW PREDICTION
+
 This project combines Graph Neural Networks (GNN) and Long Short-Term Memory (LSTM) networks to accurately predict traffic flow by capturing temporal dependencies in traffic data.
 
 **DATASET**
